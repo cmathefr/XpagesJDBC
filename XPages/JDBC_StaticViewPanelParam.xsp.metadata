@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.5" replicaid="48257C0300310E79" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1aa" sequence="8" unid="C0FF05BBAEA77F9B482578910034DD49">
+<created><datetime>20110515T173725,21+08</datetime></created>
+<modified><datetime>20131013T202424,59+08</datetime></modified>
+<revised><datetime>20131013T202424,58+08</datetime></revised>
+<lastaccessed><datetime>20131013T202424,59+08</datetime></lastaccessed>
+<addedtofile><datetime>20131013T165551,11+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Andrejus Chaliapinas/OU=Ireland/O=IBM</name><name>CN=a admin/O=ibm</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$TITLE" sign="true"><text>JDBC_StaticViewPanelParam.xsp</text></item>
+
+
+<item name="$FileNames" sign="true"><text>JDBC_StaticViewPanelParam.xsp</text></item>
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+
+
+</note>

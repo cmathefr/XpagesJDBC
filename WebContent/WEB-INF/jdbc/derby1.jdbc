@@ -1,0 +1,6 @@
+<jdbc>
+<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+<url>jdbc:sqlserver://localhost:1433;databaseName=test</url>
+<user>sa</user>
+<password>sa</password>
+</jdbc>

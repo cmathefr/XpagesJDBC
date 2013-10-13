@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faces-config>
+  <managed-bean>
+    <managed-bean-name>dbUtil</managed-bean-name>
+    <managed-bean-class>xpages.DBUtil</managed-bean-class>
+    <managed-bean-scope>request</managed-bean-scope>
+  </managed-bean>
+  <!--AUTOGEN-START-BUILDER：由 IBM Lotus Domino Designer 自动生成。不要修改。-->
+  <!--AUTOGEN-END-BUILDER：自动生成区段的结尾-->
+</faces-config>

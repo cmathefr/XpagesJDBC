@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='8.5'
+ maintenanceversion='3.5' replicaid='48257C0300310E79'>
+<noteinfo noteid='122' unid='62542FCAEC8F492480257980003A8C4A' sequence='17'>
+<created><datetime>20120109T103930,02+00</datetime></created>
+<modified><datetime>20131013T165551,27+08</datetime></modified>
+<revised><datetime>20131013T165551,26+08</datetime></revised>
+<lastaccessed><datetime>20131013T165551,27+08</datetime></lastaccessed>
+<addedtofile><datetime>20131013T165550,43+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=a admin/O=ibm</name><name>CN=admin/O=R8Dev</name></updatedby>
+<item name='$DBTheme'><text>oneuiv2</text></item>
+<item name='$DefaultXPage'><text>JDBC_Home.xsp</text></item>
+<item name='$Flags'><text>J!</text></item>
+<item name='$FlagsNoRefresh'><text>rv</text></item>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAA////7v///+D/xM/v/9d3///Ez+D/1ffu/8RP8f//////DDDg/www6v8MMPX/DDD//www
+8f8MMO7/DDD1/www//gMMB/4DDAf+AwwH///////DDD//www//8MMP//DDD///////wqAa/9quqv
+/Nrp3/2q6q/8IMGv//////////8AAAAAAAAAAAAAAAAACwALAAAAAAAAAAAAAAAAAAu7uwAAAAAA
+REBEAEQAAAALAAAAAAAAAEBAAEAAQAAAAAAAAAAAAABEQEQARAAAAAu7uwAAAAAAQEBAAABAAAAL
+AAsAAAAAAERAREBEAAAAALuwAAAAAAAAAAAAAAAAAAAAAAAAAADyLwDyLwDyLwALu7sAAAAAIiIA
+IiIAIiIACwsLAAAAACIiACIiACIiAACwsAAAAAAiIgAiIgAiIgAAAAAAAAAAIiIAIiIAIiIAALuw
+AAAAACIiACIiACIiAAsACwAAAAAiIgAiIgAiIgAAsLAAAAAAIiIAIiIAIiIAAAAAAAAPIiIiACIi
+ACIiIvAAAAAAAiIiIgAiIgAiIiIgAAAAAA8iIi8A8i8A8iIi8AAAAAAAAAAAAAAAAAAAAAAAAAAA
+AADyLwDyLwDyLwAAAAAAAAAAIiIAIiIAIiIAAAAAAAAAACIiACIiACIiAAAAAAAAAADyLwDyLwDy
+LwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAREQEBARERERABAQAAAAAAEAEBAQEAAQEBAQEAAAAAABE
+AEAEBAAEBEAAQAAAAAAAQAQEBAQABAQEBAQAAAAAAEREBEREAEREQAQEAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$Daos'><text>0</text></item>
+<item name='$TITLE'><text>XPagesJDBC</text></item></note>
+
